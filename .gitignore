@@ -7,7 +7,6 @@ __pycache__/
 
 # Unfinished projects - not ready to push yet
 01_Linear_Regression/
-02_Logistic_Regression/
 04_Shallow_Neural_Network/
 decision_tree.ipynb
 linear_reg_sklearn_deeplearning_ai.ipynb
